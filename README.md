@@ -1,2 +1,2 @@
 # Chess
-This repo can do noitce pices moves
+This repo can do noitce pices movess
