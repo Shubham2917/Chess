@@ -1,4 +1,4 @@
 # Chess
 This repo can do noitce pices movess
 <br>
-Author - Shubham Yadav
+Author - Shubham Yadav(Sbm.Ydv)
